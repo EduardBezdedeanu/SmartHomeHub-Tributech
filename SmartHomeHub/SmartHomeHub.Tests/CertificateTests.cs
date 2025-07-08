@@ -3,7 +3,7 @@ using System;
 using System.IO;
 using System.Security.Cryptography.X509Certificates;
 using Xunit;
-using SmartHomeHub; // oder entsprechender Namespace
+using SmartHomeHub;
 
 
 
